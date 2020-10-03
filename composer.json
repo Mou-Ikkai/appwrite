@@ -31,7 +31,7 @@
         "ext-zlib": "*",
         "ext-sockets": "*",
 
-        "appwrite/php-clamav": "1.0.*",
+        "appwrite/php-clamav": "1.1.*",
 
         "utopia-php/framework": "0.9.1",
         "utopia-php/abuse": "0.2.*",
