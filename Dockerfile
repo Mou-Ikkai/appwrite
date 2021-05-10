@@ -12,7 +12,7 @@ RUN composer update --ignore-platform-reqs --optimize-autoloader \
     --no-plugins --no-scripts --prefer-dist \
     `if [ "$TESTING" != "true" ]; then echo "--no-dev"; fi`
 
-FROM php:7.4-cli-alpine as step1
+FROM php:8.0.6-cli-alpine as step1
 
 ENV TZ=Asia/Tel_Aviv \
     PHP_REDIS_VERSION=5.3.0 \
@@ -52,7 +52,7 @@ RUN \
   make && make install && \
   cd ..
 
-FROM php:7.4-cli-alpine as final
+FROM php:8.0.6-cli-alpine as final
 
 LABEL maintainer="team@appwrite.io"
 
