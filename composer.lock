@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "7a1a8a44ffd7b849917eef40bebca65d",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -1861,16 +1861,16 @@
         },
         {
             "name": "utopia-php/locale",
-            "version": "0.4.0",
+            "version": "0.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/locale.git",
-                "reference": "c2d9358d0fe2f6b6ed5448369f9d1e430c615447"
+                "reference": "9de05231484ab29f61e6557e7ae494cbcf31cf41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/locale/zipball/c2d9358d0fe2f6b6ed5448369f9d1e430c615447",
-                "reference": "c2d9358d0fe2f6b6ed5448369f9d1e430c615447",
+                "url": "https://api.github.com/repos/utopia-php/locale/zipball/9de05231484ab29f61e6557e7ae494cbcf31cf41",
+                "reference": "9de05231484ab29f61e6557e7ae494cbcf31cf41",
                 "shasum": ""
             },
             "require": {
@@ -1906,9 +1906,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/locale/issues",
-                "source": "https://github.com/utopia-php/locale/tree/0.4.0"
+                "source": "https://github.com/utopia-php/locale/tree/0.6.0"
             },
-            "time": "2021-07-24T11:35:55+00:00"
+            "time": "2021-09-19T20:15:14+00:00"
         },
         {
             "name": "utopia-php/orchestration",
