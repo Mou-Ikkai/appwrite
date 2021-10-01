@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "f19bd5f01d62dd0a6448814dc98acf7d",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -720,16 +720,16 @@
         },
         {
             "name": "matomo/device-detector",
-            "version": "4.2.3",
+            "version": "4.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/matomo-org/device-detector.git",
-                "reference": "d879f07496d6e6ee89cef5bcd925383d9b0c2cc0"
+                "reference": "88e5419ee1448ccb9537e287dd09836ff9d2de3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matomo-org/device-detector/zipball/d879f07496d6e6ee89cef5bcd925383d9b0c2cc0",
-                "reference": "d879f07496d6e6ee89cef5bcd925383d9b0c2cc0",
+                "url": "https://api.github.com/repos/matomo-org/device-detector/zipball/88e5419ee1448ccb9537e287dd09836ff9d2de3b",
+                "reference": "88e5419ee1448ccb9537e287dd09836ff9d2de3b",
                 "shasum": ""
             },
             "require": {
@@ -785,7 +785,7 @@
                 "source": "https://github.com/matomo-org/matomo",
                 "wiki": "https://dev.matomo.org/"
             },
-            "time": "2021-05-12T14:14:25+00:00"
+            "time": "2021-09-20T12:34:12+00:00"
         },
         {
             "name": "mustangostang/spyc",
