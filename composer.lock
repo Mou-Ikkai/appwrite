@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "0c3ad3acb586f7440664d8727b6004d1",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -5112,23 +5112,17 @@
         },
         {
             "name": "swoole/ide-helper",
-            "version": "4.6.7",
+            "version": "4.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swoole/ide-helper.git",
-                "reference": "0d1409b8274117addfe64d3ea412812a69807411"
+                "reference": "0dcd9558133a1742a4a1754e5e2971152bd2267d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swoole/ide-helper/zipball/0d1409b8274117addfe64d3ea412812a69807411",
-                "reference": "0d1409b8274117addfe64d3ea412812a69807411",
+                "url": "https://api.github.com/repos/swoole/ide-helper/zipball/0dcd9558133a1742a4a1754e5e2971152bd2267d",
+                "reference": "0dcd9558133a1742a4a1754e5e2971152bd2267d",
                 "shasum": ""
-            },
-            "require-dev": {
-                "guzzlehttp/guzzle": "~6.5.0",
-                "laminas/laminas-code": "~3.4.0",
-                "squizlabs/php_codesniffer": "~3.5.0",
-                "symfony/filesystem": "~4.0"
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -5144,7 +5138,7 @@
             "description": "IDE help files for Swoole.",
             "support": {
                 "issues": "https://github.com/swoole/ide-helper/issues",
-                "source": "https://github.com/swoole/ide-helper/tree/4.6.7"
+                "source": "https://github.com/swoole/ide-helper/tree/4.8.1"
             },
             "funding": [
                 {
@@ -5154,13 +5148,9 @@
                 {
                     "url": "https://github.com/swoole",
                     "type": "github"
-                },
-                {
-                    "url": "https://opencollective.com/swoole-src",
-                    "type": "open_collective"
                 }
             ],
-            "time": "2021-05-14T16:05:16+00:00"
+            "time": "2021-10-29T16:44:09+00:00"
         },
         {
             "name": "symfony/console",
