@@ -1808,20 +1808,19 @@
         },
         {
             "name": "utopia-php/image",
-            "version": "0.5.0",
+            "version": "0.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/image.git",
-                "reference": "5b4ac25e70a95fa10b39c129b742ac66748d40b8"
+                "reference": "4a8429b62dcf56562b038d6712375f75166f0c02"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/image/zipball/5b4ac25e70a95fa10b39c129b742ac66748d40b8",
-                "reference": "5b4ac25e70a95fa10b39c129b742ac66748d40b8",
+                "url": "https://api.github.com/repos/utopia-php/image/zipball/4a8429b62dcf56562b038d6712375f75166f0c02",
+                "reference": "4a8429b62dcf56562b038d6712375f75166f0c02",
                 "shasum": ""
             },
             "require": {
-                "chillerlan/php-qrcode": "4.3.0",
                 "ext-imagick": "*",
                 "php": ">=7.4"
             },
@@ -1855,9 +1854,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/image/issues",
-                "source": "https://github.com/utopia-php/image/tree/0.5.0"
+                "source": "https://github.com/utopia-php/image/tree/0.5.3"
             },
-            "time": "2021-06-25T03:40:03+00:00"
+            "time": "2021-11-02T05:47:16+00:00"
         },
         {
             "name": "utopia-php/locale",
