@@ -1548,16 +1548,16 @@
         },
         {
             "name": "utopia-php/cache",
-            "version": "0.4.1",
+            "version": "0.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/cache.git",
-                "reference": "8c48eff73219c8c1ac2807909f0a38f3480c8938"
+                "reference": "7334c5b182c6ccf66b21ca61808d7c6c899e2bcb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/cache/zipball/8c48eff73219c8c1ac2807909f0a38f3480c8938",
-                "reference": "8c48eff73219c8c1ac2807909f0a38f3480c8938",
+                "url": "https://api.github.com/repos/utopia-php/cache/zipball/7334c5b182c6ccf66b21ca61808d7c6c899e2bcb",
+                "reference": "7334c5b182c6ccf66b21ca61808d7c6c899e2bcb",
                 "shasum": ""
             },
             "require": {
@@ -1567,7 +1567,7 @@
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.3",
-                "vimeo/psalm": "4.0.1"
+                "vimeo/psalm": "4.13.1"
             },
             "type": "library",
             "autoload": {
@@ -1595,9 +1595,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/cache/issues",
-                "source": "https://github.com/utopia-php/cache/tree/0.4.1"
+                "source": "https://github.com/utopia-php/cache/tree/0.4.2"
             },
-            "time": "2021-04-29T18:41:43+00:00"
+            "time": "2021-11-25T16:41:35+00:00"
         },
         {
             "name": "utopia-php/cli",
