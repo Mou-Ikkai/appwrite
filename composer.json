@@ -66,7 +66,7 @@
     "require-dev": {
         "appwrite/sdk-generator": "0.15.3",
         "phpunit/phpunit": "9.5.6",
-        "swoole/ide-helper": "4.6.7",
+        "swoole/ide-helper": "4.8.3",
         "textalk/websocket": "1.5.5",
         "vimeo/psalm": "4.10.0"
     },
