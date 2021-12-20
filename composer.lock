@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "557bd8794b7ca9ea02743e88512493a4",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -1912,16 +1912,16 @@
         },
         {
             "name": "utopia-php/orchestration",
-            "version": "0.2.1",
+            "version": "0.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/orchestration.git",
-                "reference": "55da7a331a45d5887de8122268dfccd15fee94d1"
+                "reference": "5398361b39fdb7a15b561ebf243c4cb75a68432a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/orchestration/zipball/55da7a331a45d5887de8122268dfccd15fee94d1",
-                "reference": "55da7a331a45d5887de8122268dfccd15fee94d1",
+                "url": "https://api.github.com/repos/utopia-php/orchestration/zipball/5398361b39fdb7a15b561ebf243c4cb75a68432a",
+                "reference": "5398361b39fdb7a15b561ebf243c4cb75a68432a",
                 "shasum": ""
             },
             "require": {
@@ -1961,9 +1961,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/orchestration/issues",
-                "source": "https://github.com/utopia-php/orchestration/tree/0.2.1"
+                "source": "https://github.com/utopia-php/orchestration/tree/0.3.0"
             },
-            "time": "2021-09-03T11:29:20+00:00"
+            "time": "2021-12-20T14:08:08+00:00"
         },
         {
             "name": "utopia-php/preloader",
