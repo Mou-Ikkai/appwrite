@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "fcc3e6ea318318fad14aeac1a7a9dad1",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -2072,20 +2072,20 @@
         },
         {
             "name": "utopia-php/storage",
-            "version": "0.5.0",
+            "version": "0.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/storage.git",
-                "reference": "92ae20c7a2ac329f573a58a82dc245134cc63408"
+                "reference": "ad628025be3b3e0818ea1e6cb701cc08a1c52344"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/storage/zipball/92ae20c7a2ac329f573a58a82dc245134cc63408",
-                "reference": "92ae20c7a2ac329f573a58a82dc245134cc63408",
+                "url": "https://api.github.com/repos/utopia-php/storage/zipball/ad628025be3b3e0818ea1e6cb701cc08a1c52344",
+                "reference": "ad628025be3b3e0818ea1e6cb701cc08a1c52344",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4",
+                "php": ">=8.0",
                 "utopia-php/framework": "0.*.*"
             },
             "require-dev": {
@@ -2118,9 +2118,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/storage/issues",
-                "source": "https://github.com/utopia-php/storage/tree/0.5.0"
+                "source": "https://github.com/utopia-php/storage/tree/0.6.0"
             },
-            "time": "2021-04-15T16:43:12+00:00"
+            "time": "2022-01-31T06:29:51+00:00"
         },
         {
             "name": "utopia-php/swoole",
@@ -6255,5 +6255,5 @@
     "platform-overrides": {
         "php": "8.0"
     },
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
