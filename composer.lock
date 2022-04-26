@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "c8fae6dd269a2c0ff72ad1e840d7783d",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -5899,16 +5899,16 @@
         },
         {
             "name": "textalk/websocket",
-            "version": "1.5.5",
+            "version": "1.5.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Textalk/websocket-php.git",
-                "reference": "846542f82658132cd36acb7a7e8ce0f03960c295"
+                "reference": "d05dbaa97500176447ffb1f1800573f23085ab13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Textalk/websocket-php/zipball/846542f82658132cd36acb7a7e8ce0f03960c295",
-                "reference": "846542f82658132cd36acb7a7e8ce0f03960c295",
+                "url": "https://api.github.com/repos/Textalk/websocket-php/zipball/d05dbaa97500176447ffb1f1800573f23085ab13",
+                "reference": "d05dbaa97500176447ffb1f1800573f23085ab13",
                 "shasum": ""
             },
             "require": {
@@ -5942,9 +5942,9 @@
             "description": "WebSocket client and server",
             "support": {
                 "issues": "https://github.com/Textalk/websocket-php/issues",
-                "source": "https://github.com/Textalk/websocket-php/tree/1.5.5"
+                "source": "https://github.com/Textalk/websocket-php/tree/1.5.8"
             },
-            "time": "2021-08-07T10:21:40+00:00"
+            "time": "2022-04-26T06:28:24+00:00"
         },
         {
             "name": "theseer/tokenizer",
@@ -6255,5 +6255,5 @@
     "platform-overrides": {
         "php": "8.0"
     },
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
