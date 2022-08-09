@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "b274e76d85aceb21edfebb9814fc7121",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -1254,16 +1254,16 @@
         },
         {
             "name": "slickdeals/statsd",
-            "version": "3.1.0",
+            "version": "3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Slickdeals/statsd-php.git",
-                "reference": "225588a0a079e145359049f6e5e23eedb1b4c17f"
+                "reference": "61bb07c5c2f6cf74a253984122a0859ec41e7b8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Slickdeals/statsd-php/zipball/225588a0a079e145359049f6e5e23eedb1b4c17f",
-                "reference": "225588a0a079e145359049f6e5e23eedb1b4c17f",
+                "url": "https://api.github.com/repos/Slickdeals/statsd-php/zipball/61bb07c5c2f6cf74a253984122a0859ec41e7b8b",
+                "reference": "61bb07c5c2f6cf74a253984122a0859ec41e7b8b",
                 "shasum": ""
             },
             "require": {
@@ -1304,9 +1304,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Slickdeals/statsd-php/issues",
-                "source": "https://github.com/Slickdeals/statsd-php/tree/3.1.0"
+                "source": "https://github.com/Slickdeals/statsd-php/tree/3.1.1"
             },
-            "time": "2021-06-04T20:33:46+00:00"
+            "time": "2022-08-09T17:58:56+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -6255,5 +6255,5 @@
     "platform-overrides": {
         "php": "8.0"
     },
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
