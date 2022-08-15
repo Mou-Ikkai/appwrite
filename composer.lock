@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "001d026cc4d2f1577af1cb24f62f43b6",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -1254,23 +1254,23 @@
         },
         {
             "name": "slickdeals/statsd",
-            "version": "3.1.0",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Slickdeals/statsd-php.git",
-                "reference": "225588a0a079e145359049f6e5e23eedb1b4c17f"
+                "reference": "03fc5d8d51aff9f651f97101033aad31c08d00de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Slickdeals/statsd-php/zipball/225588a0a079e145359049f6e5e23eedb1b4c17f",
-                "reference": "225588a0a079e145359049f6e5e23eedb1b4c17f",
+                "url": "https://api.github.com/repos/Slickdeals/statsd-php/zipball/03fc5d8d51aff9f651f97101033aad31c08d00de",
+                "reference": "03fc5d8d51aff9f651f97101033aad31c08d00de",
                 "shasum": ""
             },
             "require": {
                 "php": ">= 7.3 || ^8"
             },
             "replace": {
-                "domnikl/statsd": "self.version"
+                "domnikl/statsd": "<=3.0.2"
             },
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^3.0",
@@ -1304,9 +1304,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Slickdeals/statsd-php/issues",
-                "source": "https://github.com/Slickdeals/statsd-php/tree/3.1.0"
+                "source": "https://github.com/Slickdeals/statsd-php/tree/3.1.2"
             },
-            "time": "2021-06-04T20:33:46+00:00"
+            "time": "2022-08-15T16:22:48+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -6255,5 +6255,5 @@
     "platform-overrides": {
         "php": "8.0"
     },
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
