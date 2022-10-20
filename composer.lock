@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "777afb09e6aaef6fb0d953b7d4a31cf6",
+    "content-hash": "3c59950fbef41e628f4ce12a1bb3f01d",
     "packages": [
         {
             "name": "adhocore/jwt",
@@ -1759,16 +1759,16 @@
         },
         {
             "name": "utopia-php/framework",
-            "version": "0.18.0",
+            "version": "0.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/framework.git",
-                "reference": "f577522a5eb8009967b893fb7ad4ee70d3f7c0db"
+                "reference": "03fe9985495909bca29c9203546a9293216d535e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/framework/zipball/f577522a5eb8009967b893fb7ad4ee70d3f7c0db",
-                "reference": "f577522a5eb8009967b893fb7ad4ee70d3f7c0db",
+                "url": "https://api.github.com/repos/utopia-php/framework/zipball/03fe9985495909bca29c9203546a9293216d535e",
+                "reference": "03fe9985495909bca29c9203546a9293216d535e",
                 "shasum": ""
             },
             "require": {
@@ -1802,9 +1802,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/framework/issues",
-                "source": "https://github.com/utopia-php/framework/tree/0.18.0"
+                "source": "https://github.com/utopia-php/framework/tree/0.18.1"
             },
-            "time": "2021-08-19T04:58:47+00:00"
+            "time": "2022-02-11T12:01:14+00:00"
         },
         {
             "name": "utopia-php/image",
@@ -2124,27 +2124,28 @@
         },
         {
             "name": "utopia-php/swoole",
-            "version": "0.3.1",
+            "version": "0.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/utopia-php/swoole.git",
-                "reference": "b564dacb13472845f06df158ae5382e8098dfd7a"
+                "reference": "c2a3a4f944a2f22945af3cbcb95b13f0769628b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/utopia-php/swoole/zipball/b564dacb13472845f06df158ae5382e8098dfd7a",
-                "reference": "b564dacb13472845f06df158ae5382e8098dfd7a",
+                "url": "https://api.github.com/repos/utopia-php/swoole/zipball/c2a3a4f944a2f22945af3cbcb95b13f0769628b1",
+                "reference": "c2a3a4f944a2f22945af3cbcb95b13f0769628b1",
                 "shasum": ""
             },
             "require": {
                 "ext-swoole": "*",
-                "php": ">=7.4",
+                "php": ">=8.0",
                 "utopia-php/framework": "0.*.*"
             },
             "require-dev": {
+                "laravel/pint": "1.2.*",
                 "phpunit/phpunit": "^9.3",
-                "swoole/ide-helper": "4.5.5",
-                "vimeo/psalm": "4.0.1"
+                "swoole/ide-helper": "4.8.3",
+                "vimeo/psalm": "4.15.0"
             },
             "type": "library",
             "autoload": {
@@ -2155,12 +2156,6 @@
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Eldad Fux",
-                    "email": "team@appwrite.io"
-                }
             ],
             "description": "An extension for Utopia Framework to work with PHP Swoole as a PHP FPM alternative",
             "keywords": [
@@ -2174,9 +2169,9 @@
             ],
             "support": {
                 "issues": "https://github.com/utopia-php/swoole/issues",
-                "source": "https://github.com/utopia-php/swoole/tree/0.3.1"
+                "source": "https://github.com/utopia-php/swoole/tree/0.5.0"
             },
-            "time": "2021-07-27T09:28:10+00:00"
+            "time": "2022-10-19T22:19:07+00:00"
         },
         {
             "name": "utopia-php/system",
@@ -6255,5 +6250,5 @@
     "platform-overrides": {
         "php": "8.0"
     },
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
